@@ -1,0 +1,42 @@
+
+body
+{
+    background-color: gray;
+    
+}
+
+.contenedor
+{
+    width: 100%;
+    margin: auto;
+}
+
+.navbar-nav
+{
+    margin-left: 30%;
+}
+
+#caption1
+{
+    margin-bottom: 10%;
+    text-align:right;
+}
+
+#cards
+{
+    margin: 0 auto;
+}
+
+#form
+{
+    margin: 0 auto;
+    width: 50%;
+}
+
+#foot
+{
+    text-align: center;
+    color: white;
+    background-color: #1D465C;
+    
+}
